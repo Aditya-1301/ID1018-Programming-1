@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment Code.iml" filepath="$PROJECT_DIR$/.idea/Assignment Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra Assignment 1/Extra Assignment 1.iml" filepath="$PROJECT_DIR$/Extra Assignment 1/Extra Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra Assignment 2/Extra Assignment 2.iml" filepath="$PROJECT_DIR$/Extra Assignment 2/Extra Assignment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra Assignment 3/Extra Assignment 3.iml" filepath="$PROJECT_DIR$/Extra Assignment 3/Extra Assignment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extra Assignment 4/Extra Assignment 4.iml" filepath="$PROJECT_DIR$/Extra Assignment 4/Extra Assignment 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory Exercise 1/Mandatory Exercise 1.iml" filepath="$PROJECT_DIR$/Mandatory Exercise 1/Mandatory Exercise 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory Exercise 2/Mandatory Exercise 2.iml" filepath="$PROJECT_DIR$/Mandatory Exercise 2/Mandatory Exercise 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory Exercise 3/Mandatory Exercise 3.iml" filepath="$PROJECT_DIR$/Mandatory Exercise 3/Mandatory Exercise 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory Exercise 4/Mandatory Exercise 4.iml" filepath="$PROJECT_DIR$/Mandatory Exercise 4/Mandatory Exercise 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory Exercise 5/Mandatory Exercise 5.iml" filepath="$PROJECT_DIR$/Mandatory Exercise 5/Mandatory Exercise 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess/chess.iml" filepath="$PROJECT_DIR$/chess/chess.iml" />
+    </modules>
+  </component>
+</project>
