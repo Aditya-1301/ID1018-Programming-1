@@ -1,5 +1,7 @@
 # Extra Assignments
 
+Here I provide a small description of each Extra Assignment and I have provided the assignment PDF for each assignment in it's respective directory as well if someone is interested in more information.
+
 ## Assignment 1
 
 The problem is to determine the least integer in a sequential collection of integers. The given solution contains two errors that need to be identified and corrected. The first error prevents the algorithm from halting, while the second error produces incorrect results for certain integer sequences. The solution involves iterating through the collection, extracting partial sequences, and narrowing down the possible elements until the least element is found. The exercises accompanying the problem ask to trace and analyze the solution, identify and correct the errors, and propose an alternative solution using a different strategy.
