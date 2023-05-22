@@ -1,6 +1,6 @@
 # Mandatory Assignments
 
-Here I provide a small description of each Mandatory Assignment and I have provided the assignment pdf for each assignment in it's respective directory as well if someone is interested in more information.
+Here I provide a small description of each Mandatory Assignment and I have provided the assignment PDF for each assignment in it's respective directory as well if someone is interested in more information.
 
 ## Assignment 1
 
