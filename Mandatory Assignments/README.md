@@ -13,3 +13,14 @@ The provided program reads and displays the temperature readings. It then comput
 
 ## Assignment 2
 
+### Computation on a Triangle
+
+To determine the properties of a triangle, such as side lengths, angles, circumcircle, and incircle, mathematical formulas can be used. By creating a class called Triangle with static methods, computations on triangle properties can be simplified. The Triangle class can contain methods for calculating area, circumference, bisectors, and more. 
+
+Exercises on a Triangle:
+
+- Create the Triangle class with static methods for computing triangle properties.
+- Implement a method to calculate the length of a bisector based on two sides and the angle between them.
+- Create a program called TriangleAndItsCircles to calculate the radii of the circumcircle and incircle using Triangle class methods.
+- Draw a triangle with given side lengths and measure the radii of the circumcircle and incircle to verify the program's output.
+
